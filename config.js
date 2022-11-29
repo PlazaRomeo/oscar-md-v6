@@ -29,12 +29,12 @@ global.ownertag = '62819541553' //ur tag number
 global.premium = ['6282197210183'] //ur premium number
 global.botname = 'Adit-𝘔𝘥' //ur bot name
 global.ownername = "Ditzz_Makers"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
+global.linkz = "www.youtube.com" //your theme url which will be displayed on whatsapp
 global.dana = "6282197210183"
 global.pulsa = "6282197210183"
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
+global.websitex = "www.youtube.com" //ur website to be displayed
+global.websitex1 = "www.youtube.com"
+global.botscript = 'www.youtube.com' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Ditzz_Makers" //ur sticker watermark author
