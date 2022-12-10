@@ -60,7 +60,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/JarotOffc/oscar-md-v6
+git clone https://github.com/PlazaRomeo/oscar-md-v6.git
 cd oscar-md-v6
 npm start
 ```
@@ -72,7 +72,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/JarotOffc/oscar-md-v6
+git clone https://github.com/PlazaRomeo/oscar-md-v6.git
 cd oscar-md-v6
 npm start
 ```
