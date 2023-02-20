@@ -14,21 +14,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['62819541553'] //ur owner number
+global.vcardowner = ['1(440)2982896'] //ur owner number
 global.ownername = "Ditzz" //ur owner name
-global.developer = "Ditzz" //nama lu
+global.developer = "𝘼𝘿𝙒 𝙈𝙊𝘿𝙎" //nama lu
 global.ytname = "YT: RomeoPlaza" //ur yt chanel name
 global.socialm = "https://instagram.com/dits_mods79?igshid=YmMyMTA2M2Y=" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['62819541553'] //ur number
-global.ownernomer = "62819541553" //ur number
-global.ownertag = '62819541553' //ur tag number
-global.premium = ['6282197210183'] //ur premium number
-global.botname = 'Adit-𝘔𝘥' //ur bot name
-global.ownername = "Ditzz_Makers"
+global.owner = ['1(440)2982896'] //ur number
+global.ownernomer = "1(440)2982896" //ur number
+global.ownertag = '1(440)2982896' //ur tag number
+global.premium = ['1(440)2982896'] //ur premium number
+global.botname = 'Romeo-𝘔𝘥' //ur bot name
+global.ownername = "𝘼𝘿𝙒 𝙈𝙊𝘿𝙎"
 global.linkz = "www.youtube.com" //your theme url which will be displayed on whatsapp
 global.dana = "6282197210183"
 global.pulsa = "6282197210183"
@@ -37,8 +37,8 @@ global.websitex1 = "www.youtube.com"
 global.botscript = 'www.youtube.com' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Ditzz_Makers" //ur sticker watermark author
-global.wm = "Ditzzzz" //ur watermark
+global.author = "𝘼𝘿𝙒 𝙈𝙊𝘿𝙎" //ur sticker watermark author
+global.wm = "𝘼𝘿𝙒 𝙈𝙊𝘿𝙎" //ur watermark
 
 // Other
 global.sessionName = 'Session'
